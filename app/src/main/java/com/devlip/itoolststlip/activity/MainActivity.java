@@ -1,9 +1,10 @@
-package com.devlip.itoolststlip;
+package com.devlip.itoolststlip.activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
+import com.devlip.itoolststlip.R;
 import com.facebook.CallbackManager;
 import com.facebook.FacebookCallback;
 import com.facebook.FacebookException;
